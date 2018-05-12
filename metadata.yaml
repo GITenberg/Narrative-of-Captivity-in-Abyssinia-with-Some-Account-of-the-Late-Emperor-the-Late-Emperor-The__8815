@@ -1,4 +1,8 @@
 _repo: Narrative-of-Captivity-in-Abyssinia-with-Some-Account-of-the-Late-Emperor-the-Late-Emperor-The__8815
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blanc, Henry
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '2911'
     url: http://www.gutenberg.org/2009/agents/2911
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8815#Narrative-of-Captivity-in-Abyssinia-with-Some-Account-of-the-Late-Emperor-the-Late-Emperor-The_
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
